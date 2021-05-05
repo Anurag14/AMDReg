@@ -2,7 +2,7 @@
 
 Pytorch code for the paper:
 
-[*Class-Balanced Loss Based on Effective Number of Samples*](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500341.pdf)\
+[*Adaptive Margin Diversity Regularizer for handling Data Imbalance in Zero-Shot SBIR*](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500341.pdf)\
 Titir Dutta, Anurag Singh, and Soma Biswas
 
 
