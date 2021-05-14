@@ -3,6 +3,7 @@
 Pytorch code for the paper:
 
 [*Adaptive Margin Diversity Regularizer for handling Data Imbalance in Zero-Shot SBIR*](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500341.pdf)\
+ECCV 2020 (Spotlight)
 Titir Dutta, Anurag Singh, and Soma Biswas
 
 
